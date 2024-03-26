@@ -1,0 +1,26 @@
+.multistep-form {
+    width: 50%;
+    margin: 0 auto;
+  }
+  
+  .multistep-form form div {
+    margin-bottom: 20px;
+  }
+  
+  .multistep-form form input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .multistep-form form button {
+    padding: 10px 20px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  .multistep-form form button:last-child {
+    margin-right: 0;
+  }
+  
